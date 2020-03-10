@@ -30,17 +30,17 @@ client:
   url: https://capeeshconsulting.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_text: Start Now
+  first_CTA_URL: https://capeeshconsulting.com/contact/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "Get started with me"
+    CTA_text: "Interested in learning more?  Contact us!""
+    CTA_link_text: "Start Now"
+    CTA_url: https://capeeshconsulting.com/contact/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
