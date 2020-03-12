@@ -6,7 +6,7 @@ custom_links:
   - title: Events
     url: https://www.eventbrite.com/o/charletta-wilson-phd-acc-certified-dare-to-leadtm-facilitator-20060596036
   - title: Coaching
-    url: https://capeeshconsulting.com/coaching/   
+    url: https://capeeshconsulting.com/coaching/
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
@@ -39,7 +39,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Get started with me"
-    CTA_text: "Interested in learning more?  Contact us!""
+    CTA_text: Interested in learning more? Contact us!
     CTA_link_text: "Start Now"
     CTA_url: https://capeeshconsulting.com/contact/
 
