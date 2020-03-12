@@ -35,8 +35,8 @@ client:
 CTAs:
   first_CTA_text: Start Now
   first_CTA_URL: https://capeeshconsulting.com/contact/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_text: Dare to Lead
+  second_CTA_URL: https://capeeshconsulting.com/dare-to-lead/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -47,10 +47,10 @@ sidebar_CTA:
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_title2: "Dare to Lead™ Training"
+    CTA_text2: "Brave work. Tough conversations. Whole-hearted leadership."
+    CTA_link_text2: "Dare to Lead"
+    CTA_url2: https://capeeshconsulting.com/dare-to-lead/
 
 lender:
   show_section: false
