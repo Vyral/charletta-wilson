@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome To My Blog
-date: 2020-04-10 19:57:06
+date: 2020-04-10 19:57:00
 tags:
   - Coaching
   - Events
@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /img/headshot2.jpg
+youtube_alternate_image: /bigstock-Welcome-To-The-Blog-Design-Te-248101492.jpg
 youtube_code:
 ---
 
