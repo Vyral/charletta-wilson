@@ -6,7 +6,7 @@ tags:
   - Coaching
   - Events
   - Consulting
-excerpt:
+excerpt: I'm here to help you become a better leader.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
