@@ -27,7 +27,7 @@ Here are three steps to implement in your workplace:
 
 {% include pullquote.html %}
 
-**2\. Give yourself permission to be human and make mistakes.** This step is tricky because, if you’re like me and grew up believing you had to be perfect (or at least look perfect on the outside), you know it’s far from reality. When I’ve had a fall and have been able to identify that it hurts, I ask myself, “What would you tell your five-year-old self if she had a similar experience?” By incorporating this practice, I’m growing my self-compassion and self-empathy.&nbsp;
+**2\. Give yourself permission to be human and make mistakes.** This step is tricky because, if you’re like me and grew up believing you had to be perfect (or at least look perfect on the outside), you know perfection is far from reality. When I’ve had a fall and have been able to identify that it hurts, I ask myself, “What would you tell your 5-year-old self if she had a similar experience?” By incorporating this practice, I’m growing my self-compassion and self-empathy.&nbsp;
 
 **3\. Refrain from blame language.** If you get stuck in a rut, cast blame, or find fault in what happened and aren’t able to move on, you’re wasting energy. Reframe the situation from “What’s happened?” to “Where’s the opportunity?”
 
