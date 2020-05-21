@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/resilience-youtube.jpg
-youtube_code: VuGiK5FQAwA
+youtube_code: UXHlcaTa2bE
 ---
 
 {% include youtube.html %}
