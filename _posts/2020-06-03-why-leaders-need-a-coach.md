@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Leaders Need a Coach
-date: 2020-06-03 19:10:31
+date: 2020-06-03 19:10:00
 tags:
   - Coaching
 excerpt: All leaders need a coach and coaching skills. Find out why here.
@@ -27,7 +27,7 @@ Lately, I’ve been coaching some common themes, and one of them is the inner di
 
 If you’re in decision-making mode and find you’re thinking about worst-case scenarios with negative outcomes, listen for this in your thoughts. Disrupt these thoughts with a question: Yes, these are things that could occur, but **what are the opportunities that could happen?** It’s all about mindset; move from a fixed to a growth mindset.&nbsp;
 
-We all have an inner critic, and some call them their saboteur or enemy. I named mine, and call her Mellie. Whatever you call it, recognize that the inner voice that tries to keep us small is just trying to protect us.
+We all have an inner critic, and some call it their saboteur or enemy. I named mine, and call her Mellie. Whatever you call it, recognize that the inner voice that tries to keep us small is just trying to protect us.
 
 What I love about coaching is that I get to help leaders grow in their awareness and capacity to put these things in check, and provide them with tools and practices to apply when tensions are high. **As leaders grow into their skills to be coached, they also grow in their skills to coach others.**&nbsp;
 
