@@ -17,9 +17,9 @@ youtube_code: ZzBnte4Ok90
 
 {% include youtube.html %}
 
-Aloha\! I hope this message finds you and your loved o healthy and safe.
+Aloha\! I hope this message finds you and your loved ones healthy and safe.
 
-Lately, I’ve been coaching some common themes, and one of them is the&nbsp;**inner dialogue**. I truly believe that our inner dialogue can get us into a lot of trouble and cause us to miscommunicate. You need to think about the&nbsp;**assumptions**&nbsp;you have when beginning conversations. I won’t mention the familiar adage about assumptions, but you likely know what I mean. If you can identify that an assumption is creeping in your thought process, it's helpful to ask yourself what information might I be missing?&nbsp; Questions invoke spaciousness for more discovery.
+Lately, I’ve been coaching clients through some common themes, and one of them is&nbsp;**inner dialogue**. I truly believe that our inner dialogue can get us into a lot of trouble and cause us to miscommunicate. You need to think about the&nbsp;**assumptions**&nbsp;you have when beginning conversations. I won’t mention the familiar adage about assumptions, but you likely know what I mean. If you can identify that an assumption is creeping in your thought process, it's helpful to ask yourself what information might I be missing?&nbsp; Questions invoke spaciousness for more discovery.
 
 {% include pullquote.html %}
 
