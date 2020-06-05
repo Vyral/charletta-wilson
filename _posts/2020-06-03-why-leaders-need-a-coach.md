@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/coaching-skills-youtube.jpg
-youtube_code: 75vUSIB85wc
+youtube_code: ZzBnte4Ok90
 ---
 
 {% include youtube.html %}
