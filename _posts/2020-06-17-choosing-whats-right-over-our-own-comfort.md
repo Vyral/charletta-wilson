@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Choosing What’s Right Over Our Own Comfort
-date: 2020-06-17 21:24:30
+date: 2020-06-17 21:24:00
 tags:
   - Coaching
 excerpt: Courage is the most important investment you can make right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Choosing+Whats+Right+Over+Our+Own+Comfort.mp4
 pullquote: Senior leaders—your folks need to hear from you.
 enclosure_type: video/mp4
 enclosure_time:
