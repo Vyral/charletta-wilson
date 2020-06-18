@@ -19,9 +19,9 @@ youtube_code: cwHjeZbkV8g
 
 Bravery is not the absence of fear; it’s choosing to do what’s right over our own comfort. Courage requires skill, and it begins with understanding what it means to be vulnerable.&nbsp;
 
-Like many, I’m deeply saddened yet energized by our nation’s current state of unrest. The compounding effect of the COVID-19 pandemic and the tipping point of our systemic oppression have come to a head, but change is making its way. No one is immune to the tensions, discomfort, and collective pain that change brings on. However, **in these shifts, and in the complexity of these times, leaders at every level can take part in building brave workspaces.&nbsp;**
+Like many, I’m deeply saddened yet energized by our nation’s current state of unrest. The compounding effect of the COVID-19 pandemic and the tipping point of our systemic oppression has come to a head, but change is making its way. No one is immune to the tensions, discomfort, and collective pain that change brings. However, **in these shifts, and in the complexity of these times, leaders at every level can take part in building brave workspaces.&nbsp;**
 
-What does this look like? Senior leaders: Your folks need to hear from you. At the very least, be willing to listen and listen deeply. Remaining silent and pretending that the elephant is in the room doesn’t create peace or trust. If anything, choosing neutrality and being silent sends an apathetic message, which is much louder than words.&nbsp;
+What does this look like? Senior leaders: Your folks need to hear from you. At the very least, be willing to listen and listen deeply. Remaining silent and pretending that the elephant isn't in the room doesn’t create peace or trust. If anything, choosing neutrality and being silent sends an apathetic message, which is much louder than words.&nbsp;
 
 {% include pullquote.html %}
 
@@ -33,8 +33,10 @@ Systemic reform is a long game. It will take a heck of a lot of honest conversat
 
 Based on the patterns of enormous change, my hunch is that things will get crazier before they get better, so **here are three things I advise you to do now:**
 
-1. **Start investing in brave work for your people.** We need to go beyond just book reading and dropping definitions. We need to dig deep and do our own work.&nbsp;
-2. **Listen and create space for people to be seen and heard.** This is where we build bridges and how relationships are made.
-3. **You don’t have to do this perfectly, but you have to do*****something*****.** When you do, you give others hope and permission to navigate the way forward.&nbsp;
+**1\. Start investing in brave work for your people.** We need to go beyond just book reading and dropping definitions. We need to dig deep and do our own work.&nbsp;
+
+**2\. Listen and create space for people to be seen and heard.** This is where we build bridges and how relationships are made.
+
+**3\. You don’t have to do this perfectly, but you have to do&nbsp;*****something*****.** When you do, you give others hope and permission to navigate the way forward.&nbsp;
 
 If any of these concepts strike a cord or you want to learn more about how to grow brave skills within your team, don’t hesitate to reach out to me. Aloha, and be well.
