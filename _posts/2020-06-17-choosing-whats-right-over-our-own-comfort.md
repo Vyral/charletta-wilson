@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/courage-youtube.jpg
-youtube_code: cwHjeZbkV8g
+youtube_code: _QYf3S9o3eM
 ---
 
 {% include youtube.html %}
