@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Spot Defensiveness
-date: 2020-07-09 18:57:46
+date: 2020-07-09 18:57:00
 tags:
   - Coaching
 excerpt: Here’s how defensiveness can block the road to a healthy relationship.
@@ -25,7 +25,7 @@ I’m a firm believer that if we simply keep a lookout for these cues, we can be
 
 **2\. Righteous indignation.** Suppose your boss asks you about the meeting but you respond instead with, “Well, I feel like I’m being put on the spot here\! You were at the meeting, so why don’t *you* tell me what *you* think happened?” This type of defensiveness is a knee-jerk reaction that manifests whenever someone feels like they’ve been insulted.
 
-**3\. Victimhood.** Your boss presses you about the meeting but this time you respond with, “You see, I’m really new at this, and I feel that if someone had given me more training, I’d have been better prepared for the meeting. It’s really not my fault\!” Victimhood is when a person uses self-shaming to make the other person feel as though they’ve done something wrong—a classic turning of the tables.&nbsp;
+**3\. Victimhood.** Your boss presses you about the meeting but this time you respond with, “You see, I’m new at this, and I feel that if someone had given me more training, I’d have been better prepared for the meeting. It’s really not my fault\!” Victimhood is when a person uses self-shaming to make the other person feel as though they’ve done something wrong—a classic turning of the tables.&nbsp;
 
 If you find that you’re using any of these types of responses, it’s an indicator that you don’t feel secure. Here’s how we can take back responsibility though:&nbsp;
 
@@ -33,4 +33,4 @@ If you find that you’re using any of these types of responses, it’s an indic
 * Ask for clarification when in doubt&nbsp;
 * Pay attention to how something is said and mind your facial expressions
 
-These tiny tweaks in how we receive and respond to others can go a long way toward putting the magic back into relationships. If you’d like to learn more on how to reduce defensiveness, reach out to me at [info@capeeshconsulting.com](mailto:info@capeeshconsulting.com) or visit [capeeshconsulting.com.](https://capeeshconsulting.com/){: target="_blank"}
+These tiny tweaks in how we receive and respond to others can go a long way toward putting the magic back into relationships. If you’d like to learn more about how to reduce defensiveness, reach out to me at [info@capeeshconsulting.com](mailto:info@capeeshconsulting.com) or visit [capeeshconsulting.com.](https://capeeshconsulting.com/){: target="_blank"}
