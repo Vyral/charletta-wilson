@@ -33,4 +33,4 @@ If you find that you’re using any of these types of responses, it’s an indic
 * Ask for clarification when in doubt&nbsp;
 * Pay attention to how something is said and mind your facial expressions
 
-These tiny tweaks in how we receive and respond to others can go a long way toward putting the magic back into relationships. If you’d like to learn more about how to reduce defensiveness, reach out to me at [info@capeeshconsulting.com](mailto:info@capeeshconsulting.com) or visit [capeeshconsulting.com.](https://capeeshconsulting.com/){: target="_blank"}
+These tiny tweaks in how we receive and respond to others can go a long way toward putting the magic back into&nbsp; our work relationships. If you’d like to learn more about how to reduce defensiveness, reach out to me at [info@capeeshconsulting.com](mailto:info@capeeshconsulting.com) or visit [capeeshconsulting.com.](https://capeeshconsulting.com/){: target="_blank"}
