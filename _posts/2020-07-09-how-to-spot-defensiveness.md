@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/defensiveness-youtube.jpg
+youtube_alternate_image: /uploads/defensiveness-youtube-2.jpg
 youtube_code: pSw3lL5Q-Uc
 ---
 
