@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Burnout and Fatigue: The Other Pandemic'
-date: 2020-07-21 20:12:50
+date: 2020-07-21 20:12:00
 tags:
   - Coaching
 excerpt: Leaders can’t care for their circle unless they care for themselves first.
@@ -21,7 +21,7 @@ youtube_code: Z3E7EPs4NJ8
 
 The COVID-19 pandemic affects human health in more than one way. Aside from the obvious danger it poses to a person’s respiratory system, the conditions that this global virus has imposed on humanity and the damage it’s done to our sense of morale can affect mental health, too. I’m talking specifically about burnout and fatigue.&nbsp;
 
-The World Health organization has defined burnout as a syndrome resulting from chronic stress over a prolonged period of time that has been poorly managed. **The real toll of burnout is more than just the loss of productivity, it’s the stress that can exacerbate many other diseases** like cancer, stroke, and autoimmune diseases, all of which can drastically alter or even threaten our lives.&nbsp;
+The World Health Organization has defined burnout as a syndrome resulting from chronic stress over a prolonged period of time that has been poorly managed. **The real toll of burnout is more than just the loss of productivity; it’s the stress that can exacerbate many other diseases** like cancer, stroke, and autoimmune diseases, all of which can drastically alter or even threaten our lives.&nbsp;
 
 In a pre-COVID survey conducted by Gallup, two-thirds of participants reported feeling burnout caused by work. Some of those traditional causes are anything from time pressures, unmanageable workload, to a lack of support by a manager. We know in today’s world, those causes can be compounded by new challenges, such as unsustainable work-from-home conditions, lack of child care, or loved ones who are sick or dying.&nbsp;
 
