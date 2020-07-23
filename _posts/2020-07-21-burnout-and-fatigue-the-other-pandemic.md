@@ -7,9 +7,7 @@ tags:
 excerpt: Leaders can’t care for their circle unless they care for themselves first.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Burnout+and+Fatigue-+The+Other+Pandemic.mp4
-pullquote: >-
-  In a pre-COVID survey conducted by Gallup, two-thirds of participants reported
-  feeling burnout caused by work.
+pullquote: The heavy toll of burnout is...the stress that can exacerbate other diseases.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -37,7 +35,7 @@ Strategies to consider adopting:&nbsp;&nbsp;
 
 **4\. Reach out to your circle.**&nbsp;Let them you know that you might be having a hard time and ask them to observe you for any differences in behavior. Remember: They need us just as much as we need them.&nbsp;
 
-**5\. Seek out professional help.**&nbsp;I’m of the belief that every great leader has a coach, a therapist...or both. There’s no stigma or shame in asking for help. In fact, asking for help is the definition of brave.&nbsp;
+**5\. Seek out professional help.**&nbsp;I’m of the belief that every great leader has a coach, a therapist…or both. There’s no stigma or shame in asking for help. In fact, asking for help is the definition of brave.&nbsp;
 
 As leaders, we have a lot to carry, especially in these trying times. However, we can only give to others what we have in ourselves to give. With that in mind, I’ll ask one important thing of you: Do the right thing—take good care of yourself.&nbsp;
 
