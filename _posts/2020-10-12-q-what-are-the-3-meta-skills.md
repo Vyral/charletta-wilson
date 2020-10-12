@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: What Are the 3 Meta-Skills?'
-date: 2020-10-12 20:44:52
+date: 2020-10-12 20:44:00
 tags:
   - Coaching
 excerpt: 'To become a successful leader, you need the three meta-skills.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Q-+What+Are+the+3+Meta-Skills_.mp4
 pullquote: We need self-awareness to tap into the next level.
 enclosure_type: video/mp4
 enclosure_time:
