@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/successful-leadership-yt.jpg
-youtube_code: N9vfo4hFMN0
+youtube_code: IEGKTdAHXZg
 ---
 
 {% include youtube.html %}
