@@ -17,7 +17,7 @@ youtube_code: N9vfo4hFMN0
 
 {% include youtube.html %}
 
-Aloha\! today I want to challenge the traditions of what it means to be a successful leader. It’s no secret that we’re living in VUCA times (volatile, uncertain, complex, and ambiguous). In these difficult times, we’re looking for ways to not just be good leaders, but effective ones. So we look to the leadership gurus like Simon Sinek, who says to focus on our “why,” Stephen Covey says to address our “seven highly effective habits,” and Brene Brown who asserts that we should “answer our call to courage.”&nbsp;
+Aloha\! Today I want to challenge the traditions of what it means to be a successful leader. It’s no secret that we’re living in VUCA times (volatile, uncertain, complex, and ambiguous). In these difficult times, we’re looking for ways to not just be good leaders, but effective ones. So we look to the leadership gurus like Simon Sinek, who says to focus on our “why,” Stephen Covey, who says to address our “seven highly effective habits,” and Brené Brown, who asserts that we should “answer our call to courage.”&nbsp;
 
 Whichever method you choose, you need the three meta-skills. I love working with leaders to grow their meta-skills. So what are these meta-skills?
 
