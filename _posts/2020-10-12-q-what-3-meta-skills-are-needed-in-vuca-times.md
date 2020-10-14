@@ -17,7 +17,7 @@ youtube_code: IEGKTdAHXZg
 
 {% include youtube.html %}
 
-Aloha\! Today I want to challenge the traditions of what it means to be a successful leader. It’s no secret that we’re living in a VUCA age—*volatile, uncertain, complex, and ambiguous*. With difficult times now and in the future, we need ways to be better than “good”—we need to be *effective*.&nbsp; We look to the leadership gurus like Simon Sinek, who says to focus on our “why,” Stephen Covey, who says to address our seven “highly effective habits,” and Brené Brown, who asserts that we should “answer our call to courage.”&nbsp;
+Aloha\! Today I want to challenge the traditions of what it means to be a successful leader. It’s no secret that we’re living in a VUCA age—***volatile, uncertain, complex, and ambiguous***. With difficult times now and in the future, we need ways to be better than “good”—we need to be ***effective***.&nbsp; We look to the leadership gurus like Simon Sinek, who says to focus on our “why,” Stephen Covey, who says to address our seven “highly effective habits,” and Brené Brown, who asserts that we should “answer our call to courage.”&nbsp;
 
 Whichever of these propositions resonate with you, you’re going to have to sharpen some fundamental meta-skills. Meta-skills are not just soft skills—they are HUMAN POWER skills that enable next-level being.&nbsp; Our meta-skills are not easily acquired in books, they require practice.
 
