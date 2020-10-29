@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do You Change Your Perspective on Perfectionism?'
-date: 2020-10-28 20:04:57
+date: 2020-10-28 20:04:00
 tags:
   - Coaching
 excerpt: 'Perfectionism can be exhausting, but it’s not all doom and gloom.'
@@ -21,7 +21,7 @@ Do you know what’s scarier than ghosts, goblins, and ghouls? No, not 2020—pe
 
 Now more than ever, we’re afraid of people and their judgment. **Perfectionism is just that: a socially prescribed disposition where anything less than perfect is unacceptable.** The behavior of perfectionism stems from our fear of failure, embarrassment, and shame. It’s more than a habit; it’s a mindset. And you know what? It wears you out.&nbsp;
 
-You see, I tangoed with perfectionism for a very long time, but I also worked at it equally as long. It’s a hard truth, but I’m not ashamed of it because it’s a pervasive issue for leaders, particularly those who’ve grown up under strict care and leadership, have had micromanaging bosses, or perhaps have had traumatic experiences resulting in deep scars.&nbsp;
+I tangoed with perfectionism for a very long time, but I also worked at it equally as long. It’s a hard truth, but I’m not ashamed of it because it’s a pervasive issue for leaders, particularly those who’ve grown up under strict care and leadership, have had micromanaging bosses, or perhaps have had traumatic experiences resulting in deep scars.&nbsp;
 
 {% include pullquote.html %}
 
@@ -29,6 +29,6 @@ It’s important to know that perfectionism isn’t a disease, but it is exhaust
 
 Some other indicators of perfectionism include all-or-nothing thinking, defensiveness when receiving feedback, rewriting emails over and over again, procrastinating, or becoming disappointed when things turn out less than perfect.&nbsp;
 
-Now that we know what perfectionism looks like, it’s not all gloom and doom. If this speaks to you, there is hope. Three words have changed my perspective and habit around perfectionism: **grace, emergence, and acceptance.** When put to practice, each of these words can snuff the spooky out of perfectionism.&nbsp;
+Now that we know what perfectionism looks like, it’s not all gloom and doom. If this speaks to you, there is hope. Three words have changed my perspective and habits around perfectionism: **grace, emergence, and acceptance.** When put to practice, each of these words can snuff the spooky out of perfectionism.&nbsp;
 
-If you’d like to explore this concept a little deeper in a safe, non judgemental space, contact me. I’d be happy to speak with you. Until next *aloha* and *salamat po*\!
+If you’d like to explore this concept a little deeper in a safe, nonjudgemental space, contact me. I’d be happy to speak with you. Until next *time, aloha* and *salamat po*\!
