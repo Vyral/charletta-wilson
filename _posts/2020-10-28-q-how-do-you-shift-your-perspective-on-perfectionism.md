@@ -11,8 +11,8 @@ pullquote: 'Perfectionism isn’t a disease, but it is exhausting and costly.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/perfectionism-yt-1.jpg
-youtube_code: eetU0AzmM3Y
+youtube_alternate_image: /uploads/perfectionism-yt-2.jpg
+youtube_code: uLYuz2uOO-k
 ---
 
 {% include youtube.html %}
