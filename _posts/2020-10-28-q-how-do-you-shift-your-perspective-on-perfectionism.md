@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Do You Change Your Perspective on Perfectionism?'
+title: 'Q: How Do You Shift Your Perspective on Perfectionism?'
 date: 2020-10-28 20:04:00
 tags:
   - Coaching
@@ -11,7 +11,7 @@ pullquote: 'Perfectionism isn’t a disease, but it is exhausting and costly.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/perfectionism-yt.jpg
+youtube_alternate_image: /uploads/perfectionism-yt-1.jpg
 youtube_code: eetU0AzmM3Y
 ---
 
