@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: What Do You Know About Empathy?'
-date: 2020-11-11 19:17:25
+date: 2020-11-11 19:17:00
 tags:
   - Coaching
 excerpt: 'It’s essential to have empathy, especially in today’s world. Here’s why.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Q%3A+What+Do+You+Know+About+Empathy%3F.mp4
 pullquote: >-
   Empathy builds trust, and trust is the cornerstone of any sustainable
   relationship.
