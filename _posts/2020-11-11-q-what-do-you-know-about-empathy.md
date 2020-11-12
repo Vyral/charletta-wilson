@@ -27,16 +27,16 @@ Empathy is a skill most people can learn. If you find yourself feeling awkward a
 
 If you want to grow your empathy skill, you may have to let go of one or more of these myths:
 
-**Myth \#1: I haven’t had that experience or a similar one to relate.** This is false; empathy isn’t contextual. If you’ve known pain, you know difficult feelings. That qualifies you to be empathic.&nbsp;
+**Myth No. 1: I haven’t had that experience or a similar one to relate.** This is false; empathy isn’t contextual. If you’ve known pain, you know difficult feelings. That qualifies you to be empathic.&nbsp;
 
-**Myth \#2: I have to share a relatable story.** Nope, I’ll keep it plain: It’s not about you. When a person is suffering, they want to feel seen and have their story heard. By sharing your story, you may complicate their feelings even further.&nbsp;
+**Myth No. 2: I have to share a relatable story.** Nope, I’ll keep it plain: It’s not about you. When a person is suffering, they want to feel seen and have their story heard. By sharing your story, you may complicate their feelings even further.&nbsp;
 
-**Myth \#3: I have to do something to alleviate their suffering.** Absolutely not; empathy is not heroics. If you’re willing to be present and listen deeply without inserting your unsolicited opinion, your gift will make room for itself.
+**Myth No. 3: I have to do something to alleviate their suffering.** Absolutely not; empathy is not heroics. If you’re willing to be present and listen deeply without inserting your unsolicited opinion, your gift will make room for itself.
 
-**Myth \#4. I have to say something positive.** Nope. A look of acknowledgment, a head nod, or a hug (with permission) will say you care far more than trying to find a silver lining.&nbsp;
+**Myth No. 4: I have to say something positive.** Nope. A look of acknowledgment, a head nod, or a hug (with permission) will say you care far more than trying to find a silver lining.&nbsp;
 
 This is a time like no other in history, and our friends, family, and colleagues need us. When we miss out on the opportunity to be empathic we do more harm than good. The next time someone expresses pain, I invite you to practice letting go of the above myths. Don’t avoid the discomfort, needlessly babble, or make their suffering about you. Instead, be a listener, and ask them what support you can provide, and mean it.&nbsp;
 
 Empathy builds trust, and trust is the cornerstone of any sustainable relationship.
 
-**If your organization needs a professional coach, let’s talk.** If I’m not the right fit, I’ll gladly help you find someone else. If you have any questions, email me or visit [capeeshconsulting.com](https://capeeshconsulting.com/). I look forward to speaking with you. *Aloha, and*[*salamat po*](https://www.google.com/search?rlz=1C1CHBF_enUS868US868&amp;q=salamat+po&amp;spell=1&amp;sa=X&amp;ved=2ahUKEwjLu7rvzPjsAhXEPM0KHdwHDpsQkeECKAB6BAgYECk)*.*
+**If your organization needs a professional coach, let’s talk.** If I’m not the right fit, I’ll gladly help you find someone else. If you have any questions, email me or visit [capeeshconsulting.com](https://capeeshconsulting.com/). I look forward to speaking with you. *Aloha, and* [*salamat po*](https://www.google.com/search?rlz=1C1CHBF_enUS868US868&amp;q=salamat+po&amp;spell=1&amp;sa=X&amp;ved=2ahUKEwjLu7rvzPjsAhXEPM0KHdwHDpsQkeECKAB6BAgYECk)*.*
