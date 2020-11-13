@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: What Do You Know About Empathy?'
+title: 'Q: What Should You Know About Empathy?'
 date: 2020-11-11 19:17:00
 tags:
   - Coaching
