@@ -5,13 +5,14 @@ date: 2020-12-02 22:44:00
 tags:
   - Coaching
 excerpt: Here are eight steps my son Noah and I use to bring balance to each day.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Q_+Are+You+Living+%E2%80%9CLa+Vida+Loca%E2%80%9D_.mp4
 pullquote: 'Experiment with options that serve you, not imprison you.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: rNxhatd6-Gg
+use_youtube_image: false
+youtube_alternate_image: /uploads/la-vida-loca-yt.jpg
+youtube_code: kB6gnGjDja0
 ---
 
 {% include youtube.html %}
