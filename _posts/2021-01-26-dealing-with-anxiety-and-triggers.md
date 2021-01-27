@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dealing With Anxiety and Triggers
-date: 2021-01-26 16:56:12
+date: 2021-01-26 16:56:00
 tags:
   - Coaching
 excerpt: Here’s my advice for dealing with increased anxiety in our world.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/anxiety-and-triggers-yt.jpg
-youtube_code: VcOOu2_FIb8
+youtube_code: ztrHCiUDKyk
 ---
 
 {% include youtube.html %}
