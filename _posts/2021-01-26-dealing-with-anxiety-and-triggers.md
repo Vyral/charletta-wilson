@@ -19,9 +19,9 @@ youtube_code: ztrHCiUDKyk
 
 A recent study conducted by the Neuroleadership Institute indicates that 50% of workers are experiencing increased levels of anxiety. **The causes vary, but today I want you to focus on the secondary effects.&nbsp;**
 
-Anxiety is a contagion, and we’ve all been there: You’re walking along minding your own business, then someone comes along and snakes you in the face (metaphorically speaking) with their anxious energy. Before you know it, all of a sudden it hits you. Now you’re anxious, agitated, and irritated.
+Anxiety is a contagion, and we’ve all been there: You’re walking along minding your own business, then someone comes along and smacks you in the face (metaphorically speaking) with their anxious energy. Before you know it, all of a sudden it hits you. Now you’re anxious, agitated, and irritated.
 
-This is how our nervous system works. When science tells us that we’re all inextricably linked, you better believe it’s true in more ways than one. **Understanding anxiety and triggers are so important, especially now.** So many, including myself, are having hard experiences that are changing us and our social behavior.
+This is how our nervous system works. When science tells us that we’re all inextricably linked, you better believe it’s true in more ways than one. **Understanding anxiety and triggers is so important, especially now.** So many, including myself, are having hard experiences that are changing us and our social behavior.
 
 As I support the development of trauma-informed leaders, recognizing and managing our own triggers is the quickest way to learn how to support others in their struggles.
 
@@ -31,6 +31,6 @@ Triggers are not the truth, but they are stealthy and powerful. **Triggers can b
 
 **Whenever you feel in that moment, name it.** If you’re feeling judged, like you’re not enough, minimized, exposed, or abandoned, name it. Getting granular is the best way to disrupt reactivity. You and I both know an unmanaged stress response is not pretty. Here’s the good news: When we take notice of our triggers in real time, we have agency over who we want to be in the moments to follow.&nbsp;
 
-Times are tough and there is a lot of stress we’re all dealing with. However, **know that you’re in control of who you want to be regardless of external circumstances.** If you have any questions, don’t hesitate to reach out to me today. Thanks for listening and thanks for taking responsibility. Aloha and sala mapom.
+Times are tough, and we're all dealing with a lot of stress. However, **know that you’re in control of who you want to be regardless of external circumstances.** If you have any questions, don’t hesitate to reach out to me today. Thanks for listening and thanks for taking responsibility. Aloha and salamat po.
 
 P.S. Stay tuned to the end of the video for a short blooper reel. As you can see, “Neuroleadership Institute” is quite the tongue twister.
