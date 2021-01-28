@@ -19,7 +19,7 @@ youtube_code: 2BFbcLXg9L4
 
 A recent study conducted by the Neuroleadership Institute indicates that 50% of workers are experiencing increased levels of anxiety. **The causes vary, but today I want you to focus on the secondary effects.&nbsp;**
 
-Anxiety is a contagion, and we’ve all been there: You’re walking along minding your own business, then someone comes along and smacks you in the face (metaphorically speaking) with their anxious energy. Before you know it, all of a sudden it hits you. Now you’re anxious, agitated, and irritated.
+Anxiety is a contagion, and we’ve all been there: You’re walking along minding your own business, then someone comes along and smacks you in the face (metaphorically speaking) with their anxious energy. Before you know it,&nbsp; you’re anxious, agitated, and irritated, too\!
 
 This is how our nervous system works. When science tells us that we’re all inextricably linked, you better believe it’s true in more ways than one. **Understanding anxiety and triggers is so important, especially now.** So many, including myself, are having hard experiences that are changing us and our social behavior.
 
