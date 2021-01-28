@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/anxiety-and-triggers-yt.jpg
-youtube_code: lNZvxG3ChGM
+youtube_code: 2BFbcLXg9L4
 ---
 
 {% include youtube.html %}
