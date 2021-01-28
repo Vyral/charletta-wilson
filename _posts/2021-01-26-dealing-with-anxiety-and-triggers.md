@@ -23,8 +23,6 @@ Anxiety is a contagion, and we’ve all been there: You’re walking along mindi
 
 This is how our nervous system works. When science tells us that we’re all inextricably linked, you better believe it’s true in more ways than one. **Understanding anxiety and triggers is so important, especially now.** So many, including myself, are having hard experiences that are changing us and our social behavior.
 
-As I support the development of trauma-informed leaders, recognizing and managing our own triggers is the quickest way to learn how to support others in their struggles.
-
 {% include pullquote.html %}
 
 Triggers are not the truth, but they are stealthy and powerful. **Triggers can be anything from the way someone looks at you to the sound of their voice, a loud noise, or even a smell.** How we recognize triggers is by experiencing them in our body. For me, it comes as a flash of heat, then a message. The message tells us that we have a need to be protected or feel safe.
@@ -33,4 +31,4 @@ Triggers are not the truth, but they are stealthy and powerful. **Triggers can b
 
 Times are tough, and we're all dealing with a lot of stress. However, **know that you’re in control of who you want to be regardless of external circumstances.** If you have any questions, don’t hesitate to reach out to me today. Thanks for listening and thanks for taking responsibility. Aloha and salamat po.
 
-P.S. Stay tuned to the end of the video for a short blooper reel. As you can see, “Neuroleadership Institute” is quite the tongue twister.
+P.S. Check out our bloopHERS - “Neuroleadership Institute” is quite the tongue twister\!
