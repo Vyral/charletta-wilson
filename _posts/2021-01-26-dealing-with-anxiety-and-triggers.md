@@ -27,7 +27,7 @@ This is how our nervous system works. When science tells us that we’re all ine
 
 Triggers are not the truth, but they are stealthy and powerful. **Triggers can be anything from the way someone looks at you to the sound of their voice, a loud noise, or even a smell.** How we recognize triggers is by experiencing them in our body. For me, it comes as a flash of heat, then a message. The message tells us that we have a need to be protected or feel safe.
 
-**Whenever you feel in that moment, name it.** If you’re feeling judged, like you’re not enough, minimized, exposed, or abandoned, name it. Getting granular is the best way to disrupt reactivity. You and I both know an unmanaged stress response is not pretty. Here’s the good news: When we take notice of our triggers in real time, we have agency over who we want to be in the moments to follow.&nbsp;
+**Whatever you feel in that moment, name it.** If you’re feeling judged, like you’re not enough, minimized, exposed, or abandoned, name it. Getting granular is the best way to disrupt reactivity. You and I both know an unmanaged stress response is not pretty. Here’s the good news: When we take notice of our triggers in real time, we have agency over who we want to be in the moments to follow.&nbsp;
 
 Times are tough, and we're all dealing with a lot of stress. However, **know that you’re in control of who you want to be regardless of external circumstances.** If you have any questions, don’t hesitate to reach out to me today. Thanks for listening and thanks for taking responsibility. Aloha and salamat po.
 
