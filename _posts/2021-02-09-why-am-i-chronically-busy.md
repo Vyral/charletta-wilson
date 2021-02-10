@@ -34,6 +34,6 @@ Nope, not abundance. **The true opposite of scarcity is&nbsp;****enough****.** T
 3. Before adding to your calendar, ask yourself, “Is this task serving my higher purpose or my ego?”
 4. Find at least three things to be grateful for each day.&nbsp;
 
-Here’s a bonus tip: Evaluate the company you keep. The reason why is that we model the behavior and habits of those with whom we spend most of our time. If there’s one thing that the pandemic has taught me, it’s that tomorrow is never promised, and “busy” does not equal success.&nbsp;
+**Here’s a bonus tip:** Evaluate the company you keep. We model the behavior and habits of those with whom we spend most of our time. If there’s one thing that the pandemic has taught me, it’s that tomorrow is never promised, and “busy” does not equal success.&nbsp;
 
-I hope you found these tips to be helpful. If you like what you heard and want to hear more, please subscribe to the CaPeesh channel\! With any questions or comments you may have regarding this topic, don’t hesitate to reach out. I’d love to hear from you.
+I hope you found these tips to be helpful. If you like what you heard and want to hear more, please subscribe to the CaPeesh channel\! With any questions or comments you may have regarding this topic, don’t hesitate to reach out to me. I’d love to hear from you.
