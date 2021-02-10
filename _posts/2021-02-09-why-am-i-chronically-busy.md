@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Am I Chronically Busy?
-date: 2021-02-09 21:54:30
+date: 2021-02-09 21:54:00
 tags:
   - Coaching
 excerpt: Here’s why an apparent need to always be busy can be indicative of scarcity.
@@ -21,13 +21,13 @@ youtube_code: OeZaOEob5I0
 
 “Why am I chronically busy, and how do I stop it?” I get asked this question quite a bit, and I’m intimately familiar with this problem. The need to be busy is one of the biggest lies that we can tell ourselves to feel a sense of fulfillment. **In actuality, being chronically busy is an indicator of hidden fears as well as scarcity.** What is scarcity, exactly?&nbsp;
 
-Scarcity is learned, and it has a voice. It tells us that we’re not enough and don’t have enough, and in response, we start psyching ourselves into a highly reactionary threat mode. If we had to personalize scarcity, we’d be forced to say he’s slick; he’ll thrust your FOMO into overdrive in no time flat. Here are a few example of what “busy” might look like as a result of scarcity:&nbsp;
+Scarcity is learned, and it has a voice. It tells us that we’re not enough and don’t have enough, and in response, we start psyching ourselves into a highly reactionary threat mode. If we had to personalize scarcity, we’d be forced to say he’s slick; he’ll thrust your FOMO into overdrive in no time flat. Here are a few examples of what “busy” might look like as a result of scarcity:&nbsp;
 
-You take on a project that you have no business taking on simply because you believe that no one can do it better than you. You add one more webinar to your calendar, join another book club, say yes to hosting another tupperware gig, or keep checking social media in the hope that something of import will pop up so you can take action. Does any of that sound familiar to you? If the answer is yes—no shame intended. Now that we know what scarcity looks like, what do you suppose is its opposite?&nbsp;
+You take on a project that you have no business taking on simply because you believe that no one can do it better than you. You add one more webinar to your calendar, join another book club, say yes to hosting another Tupperware gig, or keep checking social media in the hope that something of import will pop up so you can take action. Does any of that sound familiar to you? If the answer is yes—no shame intended. Now that we know what scarcity looks like, what do you suppose is its opposite?&nbsp;
 
 {% include pullquote.html %}
 
-Nope, not abundance. **The true opposite of scarcity is*****enough*****.** The good news is, you can get off the busy train and create new neural pathways to better habits and better thinking. I have four suggestions for how to get started doing that:&nbsp;
+Nope, not abundance. **The true opposite of scarcity is&nbsp;****enough****.** The good news is, you can get off the busy train and create new neural pathways to better habits and better thinking. I have four suggestions for how to get started doing that:&nbsp;
 
 1. Meditate or pray before starting your day.&nbsp;
 2. Affirm daily that you have enough and *are* enough.&nbsp;
