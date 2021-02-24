@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do You Need to Feel Whole?
-date: 2021-02-24 15:32:17
+date: 2021-02-24 15:32:00
 tags:
   - Coaching
 excerpt: This self-care practice will help you feel renewed and whole again.
@@ -27,6 +27,6 @@ This year was a little different; I got a haircut and went to the dentist. Those
 
 As a business owner, coach to many leaders, and busy mom, I hear one consistent message from everyone: “I’ve hit the pandemic wall, and I’m tired.” So he’s my invitation: Let’s all pretend it’s our birthday month, and ask ourselves that crucial question: **What do I need to feel whole?** See what arises, and give yourself permission to do and be. It’s that simple.&nbsp;
 
-Whether that means spending a day at the beach, hiking or walking a trail, practicing your golf swing on a bucket of balls, cleaning out your closet, or something else, just do it with no apology. Remember: It doesn’t have to be your birthday to acknowledge your humanness and live your values. **When you take care of yourself, others will follow.**
+Whether that means spending a day at the beach, hiking or walking a trail, practicing your golf swing with a bucket of balls, cleaning out your closet, or something else, just do it with no apology. Remember: It doesn’t have to be your birthday to acknowledge your humanness and live your values. **When you take care of yourself, others will follow.**
 
-If this message resonates with you, send me an email, and let me know that you’re taking care of yourself. If you know this is a message someone else needs to hear, please forward it to them. Salamat po\!
+If this message resonates with you, send me an email, and let me know that you’re taking care of yourself. If you know this is a message someone else needs to hear, please forward it to them. *Salamat po\!*
