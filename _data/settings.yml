@@ -52,7 +52,7 @@ CTAs:
   second_CTA_text: Dare to Lead
   second_CTA_URL: 'https://capeeshconsulting.com/dare-to-lead/'
 sidebar_CTA:
-  - CTA_image_path: /uploads/0.jpg
+  - CTA_image_path: /uploads/charwiththem-768x512.jpg
     CTA_title: Does your team need help going to the next level?
     CTA_text: Interested in learning more? Contact us!
     CTA_link_text: Start Now
