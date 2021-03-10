@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Leadership Development: Where to Start?'
-date: 2021-03-10 18:16:46
+date: 2021-03-10 18:16:00
 tags:
   - Coaching
 excerpt: >-
@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/pexels-rebrand-cities-1367272.jpg
+youtube_alternate_image: /uploads/1.jpg
 youtube_code:
 ---
 When it comes to business, people and disruption, there is never a shortage of needs for leadership development. &nbsp;
@@ -42,4 +42,4 @@ The gift of coaching many leaders from different backgrounds is identifying them
 
 Finally, as you explore leadership development for your team and business be clear in defining what it means to your organization at different stages.&nbsp; Your coach can help guide your steps in operationalizing leadership development, and crafting an action-based strategy that helps you improve awareness, vision and decision-making; while learning new skills to overcome challenges and setbacks.&nbsp;&nbsp;
 
-For more information around leadership development or team coaching, send us a message at info@capeeshconsulting.com.
+For more information around leadership development or team coaching, send us a message at [info@capeeshconsulting.com](mailto:info@capeeshconsulting.com).
