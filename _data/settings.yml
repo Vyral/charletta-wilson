@@ -7,11 +7,12 @@ description: >-
   leading with heart.
 show_custom_links: true
 custom_links:
-  - title: Events
-    url: >-
-      https://www.eventbrite.com/o/charletta-wilson-phd-acc-certified-dare-to-leadtm-facilitator-20060596036
   - title: Coaching
     url: 'https://capeeshconsulting.com/coaching/'
+  - title: Leader/Team Development
+    url: 'https://capeeshconsulting.com/leadership-development/'
+  - title: BLOG
+    url: 'https://blog.capeeshconsulting.com/'
   - title: Contact
     url: 'https://capeeshconsulting.com/contact/'
 show_custom_links_new_tab: false
