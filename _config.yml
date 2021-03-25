@@ -44,6 +44,8 @@ defaults:
     values:
       layout: "default"
 tags:
-  - Events
-  - Consulting
+  - Home
   - Coaching
+  - Leader/Team Development
+  - Blog 
+  - Contact  
