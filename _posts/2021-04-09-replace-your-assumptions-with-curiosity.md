@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Replace Your Assumptions With Curiosity
-date: 2021-04-09 21:10:04
+date: 2021-04-09 21:10:00
 tags:
   - Coaching
 excerpt: Don’t let your assumptions hinder your evolution as a person.
@@ -24,6 +24,6 @@ What’s the main stumbling block in the life of a senior leader? After doing hu
 
 {% include pullquote.html %}
 
-**The judgments we make about ourselves, others, and our circumstances are often made in the image of our worst thoughts.** Catch those assumptions, criticisms, and judgments in the moment as often as you can. There’s no shame there—we all have judgments and assumptions, but we need to replace those with curiosity, and ask ourselves what we don’t know, what’s missing, and who we need to contact to clarify what’s happening. That’s the crux—or heartbeat, if you will—of leadership and the evolution of becoming better versions of ourselves.&nbsp;
+**The judgments we make about ourselves, others, and our circumstances are often made in the image of our worst thoughts.** Catch those assumptions, criticisms, and judgments in the moment as often as you can. There’s no shame there—we all have judgments and assumptions, but we need to replace those with curiosity, and ask ourselves what we don’t know, what’s missing, and who we need to contact to clarify what’s happening. That’s the crux—or heartbeat if you will—of leadership and the evolution of becoming better versions of ourselves.&nbsp;
 
-If you have comments or questions about this topic or something has inspired you today and you’d like to talk about it, don’t hesitate to reach out to me. I’d love to help you, and I’ll see you next time\!
+If you have comments or questions about this topic, or if something has inspired you today and you’d like to talk about it, don’t hesitate to reach out to me. I’d love to help you, and I’ll see you next time\!
