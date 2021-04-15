@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/assumptions-yt2.jpg
+youtube_alternate_image: /uploads/assumptions-yt-1.jpg
 youtube_code: aR9byEFv8YE
 ---
 {% include youtube.html %}
