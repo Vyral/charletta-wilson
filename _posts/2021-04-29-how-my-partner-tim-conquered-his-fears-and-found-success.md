@@ -7,12 +7,12 @@ tags:
 excerpt: Here’s a great example of success leaving clues for all of us to find.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/How+My+Partner+Tim+Conquered+His+Fears+and+Found+Success.mp4
-pullquote: Learning to be OK with mistakes is an important lesson.
+pullquote: Learning how to be OK with mistakes is an important lesson.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/success-leaves-clues-yt.jpg
-youtube_code: 5j_a8w7UNkI
+youtube_code: 18bIve27pm0
 ---
 {% include youtube.html %}
 
@@ -30,10 +30,10 @@ Did he have fears? Of course. He feared the unknown, failure, and disappointing 
 
 Surprises? There were many. To be successful in any business, you really have to hone in on networking skills, relationships, and team building.
 
-The biggest lesson Tim learned was to buy-in before starting the business. Another lesson he learned is being OK with making mistakes. It’s so easy to make comparisons to what your peers are doing. What works for some might not work for others. Lastly, knowing your “why” will keep you grounded when things get weird.
+The biggest lesson Tim learned was to buy-in before starting the business. Another lesson he learned is how to be OK with making mistakes. It’s so easy to make comparisons to what your peers are doing. What works for some might not work for others. Lastly, knowing your “why” will keep you grounded when things get weird.
 
-**Tim’s final message is this: Never stop improving on effective communication.** As long as you’re serving people, communication is essential .It’s also vulnerable, liberating, and fulfilling.&nbsp;
+**Tim’s final message is this: Never stop improving on effective communication.** As long as you’re serving people, communication is essential. It’s also vulnerable, liberating, and fulfilling.&nbsp;
 
-Thanks to Tim for sharing all of his wisdom. If you’re in the market to buy, sell or rent a home in Hawaii, I know a great Realtor and would love to refer you.
+Thanks to Tim for sharing all of his wisdom. If you’re in the market to buy, sell, or rent a home in Hawaii, I know a great Realtor and would love to either help or refer you.
 
 If you have any additional questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
