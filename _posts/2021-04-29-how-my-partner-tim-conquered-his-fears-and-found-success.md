@@ -1,11 +1,12 @@
 ---
 layout: post
 title: How My Partner Tim Conquered His Fears and Found Success
-date: 2021-04-29 19:47:13
+date: 2021-04-29 19:47:00
 tags:
   - Coaching
 excerpt: Here’s a great example of success leaving clues for all of us to find.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/How+My+Partner+Tim+Conquered+His+Fears+and+Found+Success.mp4
 pullquote: Learning to be OK with mistakes is an important lesson.
 enclosure_type: video/mp4
 enclosure_time:
