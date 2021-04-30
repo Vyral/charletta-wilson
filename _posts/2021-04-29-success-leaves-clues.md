@@ -11,7 +11,7 @@ pullquote: Learning how to be OK with mistakes is an important lesson.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/success-leaves-clues-yt.jpg
+youtube_alternate_image: /uploads/success-leaves-clues-yt-1.jpg
 youtube_code: 18bIve27pm0
 ---
 {% include youtube.html %}
