@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curiosity Is Key in Life & Business
-date: 2021-05-12 23:00:43
+date: 2021-05-12 23:00:00
 tags:
   - Coaching
 excerpt: 'In business and in life, having a curious mind is key. Here’s why.'
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/curiosity-yt.jpg
-youtube_code: hDn4KiqglCg
+youtube_code: C758QZ8_Ulc
 ---
 {% include youtube.html %}
 
