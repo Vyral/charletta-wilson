@@ -16,7 +16,7 @@ youtube_code: C758QZ8_Ulc
 ---
 {% include youtube.html %}
 
-If you’re a coaching client of mine, past or present, you’ve probably heard me mention the word ‘curiosity’ dozens, if not hundreds, of times. The reason is that curiosity is a kind of superpower that’s accessible to everyone. Management consultant Peter Drucker says that we can be “intelligently curious.”
+If you’re a coaching client of mine, past or present, you’ve probably heard me mention the word ‘curiosity’ dozens, if not hundreds, of times. The reason is that curiosity is a kind of superpower that’s accessible to everyone. Management consultant Peter Drucker says that we can be 'intelligently curious.'
 
 Curiosity can be applied via strategy, innovation, and relationships. Think about it: Strategy is nothing but a best guess—without guessing, strategy wouldn’t even be strategy. We have to experiment with different combinations to see what works. Big companies like Amazon, Uber, and Airbnb all do this.
 
