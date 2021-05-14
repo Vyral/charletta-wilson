@@ -11,12 +11,12 @@ pullquote: Strategy is nothing but a best guess put to action.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/curiosity-yt.jpg
+youtube_alternate_image: /uploads/charletta-wilson---may-2021---1---youtube-edit.jpeg
 youtube_code: C758QZ8_Ulc
 ---
 {% include youtube.html %}
 
-If you’re a coaching client of mine, past or present, you’ve probably heard me mention the word ‘curiosity’ dozens, if not hundreds, of times. The reason is that curiosity is a kind of superpower --that’s accessible to everyone. Management consultant, Peter Drucker, says that we should strive to be ‘intelligently curious.’
+If you’re a coaching client of mine, past or present, you’ve probably heard me mention the word ‘curiosity’ dozens, if not hundreds, of times. The reason is that curiosity is a kind of superpower –that’s accessible to everyone. Management consultant, Peter Drucker, says that we should strive to be ‘intelligently curious.’
 
 Curiosity is generative and can be applied in&nbsp;**strategy, innovation**, and&nbsp;**relationships**. Think about it: Strategy is nothing but a best guess put to action.&nbsp; We have to experiment with different combinations to see what works. We can take note of how innovation multiplies assets through examples like Amazon, Uber, and Airbnb.&nbsp; &nbsp;&nbsp;
 
