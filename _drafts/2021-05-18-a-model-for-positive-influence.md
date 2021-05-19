@@ -1,13 +1,13 @@
 ---
 layout: post
 title: A Model for Positive Influence
-date: 2021-05-18 17:46:12
+date: 2021-05-18 17:46:00
 tags:
   - Coaching
 excerpt: The SCARF model can help you navigate the winds of change.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/A+Model+for+Positive+Influence.mp4
-pullquote: As leaders we can be proactive...minimizing fears and pushback.
+pullquote: 'As leaders, we can be proactive minimizing fears and pushback.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -16,7 +16,7 @@ youtube_code: br5Y261vSek
 ---
 {% include youtube.html %}
 
-The winds of change are coming in fast and furious. If your organization or team is undergoing a change, we need to talk. When change is happening, two questions permeate the air: 1) How does this relate to me? and 2) Will I be relevant at the end of the change? **As leaders, we can be proactive when answering these questions, minimizing fears, and pushback.**&nbsp;
+The winds of change are coming in fast and furious. If your organization or team is undergoing a change, we need to talk. When change is happening, two questions permeate the air: 1) How does this relate to me? and 2) Will I be relevant at the end of the change? **As leaders, we can be proactive when answering these questions and minimizing fears and pushback.**
 
 {% include pullquote.html %}
 
@@ -24,7 +24,7 @@ That said, I’d like to share a tool with you called the SCARF model (Status, C
 
 * **Safety:** Whenever possible, give positive feedback and publicly acknowledge the things that are going well.&nbsp;
 * **Certainty:** Give clear expectations, and whatever you do, don’t overpromise.
-* **Autonomy:** Create as many opportunities as possible for your team members to have voice and choice.
+* **Autonomy:** Create as many opportunities as possible for your team members to have a voice and a choice.
 * **Relatedness:** Create social opportunities to talk about the wins, concerns, and failures.&nbsp;
 * **Fairness:** Be clear with communication, be transparent, and make sure your rules are consistent.&nbsp;
 
