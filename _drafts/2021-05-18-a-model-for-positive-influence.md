@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/scarf-model-yt.jpg
-youtube_code: br5Y261vSek
+youtube_code: q9Huy8qbDnw
 ---
 {% include youtube.html %}
 
