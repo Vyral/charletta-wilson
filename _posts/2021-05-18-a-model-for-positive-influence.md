@@ -22,11 +22,11 @@ The winds of change are coming in fast and furious. If your organization or team
 
 That said, I’d like to share a tool with you called the SCARF model (Status, Certainty, Autonomy, Relatedness, Fairness), originated by researcher David Rock of the Neuroleadership Institute. In times of change, the SCARF model offers a way to look at our experience from the lens of empathy. **Here’s an example of the model in action:**
 
-* **Safety:** Whenever possible, give positive feedback and publicly acknowledge the things that are going well.&nbsp;
-* **Certainty:** Give clear expectations, and whatever you do, don’t overpromise.
-* **Autonomy:** Create as many opportunities as possible for your team members to have a voice and a choice.
-* **Relatedness:** Create social opportunities to talk about the wins, concerns, and failures.&nbsp;
-* **Fairness:** Be clear with communication, be transparent, and make sure your rules are consistent.&nbsp;
+* **Status:**&nbsp;Whenever possible, give positive feedback and publicly acknowledge the things that are going well.&nbsp;
+* **Certainty:**&nbsp;Give clear expectations, and whatever you do, don’t overpromise.
+* **Autonomy:**&nbsp;Create as many opportunities as possible for your team members to have a voice and a choice.
+* **Relatedness:**&nbsp;Create social opportunities to talk about the wins, concerns, and failures.&nbsp;
+* **Fairness:**&nbsp;Be clear with communication, be transparent, and make sure your rules are consistent.&nbsp;
 
 I hope this model helps you navigate the winds of change. If you’d like additional tips on how to improve your SCARF factors around change management, feel free to drop me a line. I’d love to help you. *Aloha* and *Salamat Po*\!
 
