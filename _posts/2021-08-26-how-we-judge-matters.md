@@ -6,7 +6,8 @@ tags:
   - Coaching
   - Leader/Team Development
 excerpt: I talk about how you can start making better judgments today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/How+We+Judge+Matters.mp4
 pullquote: Good judgment hygiene makes for better business and a better life.
 enclosure_type: video/mp4
 enclosure_time:
