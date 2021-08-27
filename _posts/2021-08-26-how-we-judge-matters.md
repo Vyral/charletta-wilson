@@ -31,7 +31,7 @@ How you judge is simply something you need to rethink, and here’s how to start
 
 **3\. Listen longer.** If you’re waiting for the other half of a conversation to stop talking so you can assert your ideas, you aren’t listening. Practice listening for understanding before making a judgment.
 
-**4\. Watch your language for excessive ‘shoulds’**\: ‘She should have done this, or I should have done that…’ Stop ‘shoulding’ on yourself\!
+**4\. Watch your language for excessive ‘shoulds’**\: ‘She should have done this', or 'I should have done that.’ Stop ‘shoulding’ on yourself\!
 
 **5\. Remember that you should be judged in the same way you judge others.** If that’s not enough motivation to do better, I don’t know what is.
 
