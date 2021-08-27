@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /download-1-1.jpg
-youtube_code: 9uWmawkggcw
+youtube_code: 2BhDoBescUI
 ---
 {% include youtube.html %}
 
@@ -31,8 +31,8 @@ How you judge is simply something you need to rethink, and here’s how to start
 
 **3\. Listen longer.** If you’re waiting for the other half of a conversation to stop talking so you can assert your ideas, you aren’t listening. Practice listening for understanding before making a judgment.
 
-**4\. Watch your language for excessive ‘shoulds’**\: ‘She should have done this', or 'I should have done that.’ Stop ‘shoulding’ on yourself\!
+**4\. Watch your language for excessive ‘shoulds’**\: ‘She should have done this', or 'I should have done that.’ Stop ‘shoulding’ on yourself\!&nbsp;
 
-**5\. Remember that you should be judged in the same way you judge others.** If that’s not enough motivation to do better, I don’t know what is.
+Remember, judgment is less about them and more about you. If that’s not enough motivation to do better, I don’t know what is.
 
-If we can create more space for better quality thinking, we would make fewer assumptions, lay less blame, and make more room for better connections. Good judgment hygiene makes for better business and a better life. If you’re looking to upscale your team and need support, please contact us at [info@capeeshconsulting.com](mailto:info@capeeshconsulting.com).
+If we can create more space for better quality thinking, we would make fewer assumptions, lay less blame, and make more room for better connections. Good judgment hygiene makes for better business and a better life. If you’re looking to upskill your team and need support, please contact us at [info@capeeshconsulting.com](mailto:info@capeeshconsulting.com).
