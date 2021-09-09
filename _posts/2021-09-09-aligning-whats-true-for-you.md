@@ -6,7 +6,8 @@ tags:
   - Coaching
   - Leader/Team Development
 excerpt: Let me tell you about alignment week and how it can help you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Aligning+What's+True+for+You.mp4
 pullquote: This is the secret sauce behind my confidence.
 enclosure_type: video/mp4
 enclosure_time:
