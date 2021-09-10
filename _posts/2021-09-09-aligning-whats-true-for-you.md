@@ -12,17 +12,19 @@ pullquote: This is the secret sauce behind my confidence.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /alignment-yt.jpg
+youtube_alternate_image: /alignment-yt-1.jpg
 youtube_code: Z12BdENxzew
 ---
 {% include youtube.html %}
 
-I’m sure you’ve also felt like life is spinning a bit out of control with the pandemic and everything else. This week is alignment week. That means this is a series of days where I take time off to slow down and make space to think.
+Life has felt like it's been spinning out of control.&nbsp; And for this reason, I'm grateful for ALIGNMENT WEEK - a series of days where I take time off to slow down and...think.&nbsp;
 
-**Alignment week is different from making a mid-year or a new year's resolution.** What I love about alignment week is that it's an intentional time to think deeply about the spiritual, mental, physical,&nbsp; financial, relational, and vocational aspects of life. During this time, I block out all the noise to think about what's true for me and my family. Then, I make prioritized decisions on the best way forward. When I take this process step by step, it keeps me attuned and honest about my purpose in life.
+**Alignment week is different from making a mid-year or a new year’s resolution.**&nbsp;The process is equally important to the outcome.&nbsp; I set an intention for deep thinking about the spiritual, mental, physical, financial, relational, and vocational aspects of life. The process begins with removing distractions and blocking out noise.&nbsp; Then, I explore what’s true for me and my family.&nbsp; Each domain of life gets a spotlight and attention.&nbsp; Afterward, I make prioritized decisions on the best way forward. I've been doing this process for years and it keeps me attuned and honest to living out my life purpose.
 
 {% include pullquote.html %}
 
-This is the secret sauce behind my confidence. **When I'm living according to what's true to me and my family, everyone else gets the better version of me.** The world has a way of making chopped salad out of those who don't take time to align. I'm curious about what process you go through in order to align and what matters most to you.
+This is the secret sauce behind my confidence.&nbsp;**When I’m living according to what’s true to me and my family, everyone else gets the better version of me.**&nbsp;The world has a way of making chopped salad out of those who don’t take time to align. I’m curious about your process to 'get or stay' aligned to what matters most to you.
 
-This fall, I'll be announcing a small group coaching opportunity where I will take a group of leaders through this alignment process. If this sounds like something interesting to you, email me at info@capisceconsulting.com. I'd be glad to put you on the VIP list. If you have any questions, feel free to reach out to me.
+This fall, I’ll be announcing a small group coaching opportunity where I will take a group of leaders through this alignment process. If you are interested and ready to focus on life-alignment, send me an email at&nbsp;[info@capisceconsulting.com](mailto:info@capisceconsulting.com){: target="_blank"}. I’d be glad to put you on the VIP list. If you have any questions, feel free to reach out to me.
+
+Mabuhay\!
