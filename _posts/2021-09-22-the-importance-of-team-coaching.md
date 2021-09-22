@@ -6,13 +6,14 @@ tags:
   - Coaching
   - Leader/Team Development
 excerpt: Here are some of the lessons that my team leaders have been learning.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/The+Importance+of+Team+Coaching.mp4
 pullquote: >-
   Of all the different roles I have within the organization, my favorite is as a
   team coach.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /ss.jpg
 youtube_code: CcKog7TP6sE
 ---
