@@ -13,8 +13,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /ss.jpg
-youtube_code: CcKog7TP6sE
+youtube_alternate_image: /team-coaching-yt.jpg
+youtube_code: v_1zz9-CSaY
 ---
 {% include youtube.html %}
 
