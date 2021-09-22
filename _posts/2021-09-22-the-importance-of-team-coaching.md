@@ -19,7 +19,7 @@ youtube_code: CcKog7TP6sE
 ---
 {% include youtube.html %}
 
-Aloha and welcome back\!Of all the different roles I have within the organization, my favorite is as a team coach.In 2021, I had the amazing opportunity to do some transformative work. **Here’s what some of my leaders have had to say after working with me:**
+Aloha and welcome back\! Of all the different roles I have within the organization, my favorite is as a team coach. In 2021, I had the amazing opportunity to do some transformative work. **Here’s what some of my leaders have had to say after working with me:**
 
 *“What I learned about shame is that it’s ultimately the feeling that you’re not good enough or you’re not worthy. But the sooner you can acknowledge it and name it, you can move through it quickly and move on to the next thing.”*
 
