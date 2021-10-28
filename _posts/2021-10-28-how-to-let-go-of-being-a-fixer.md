@@ -5,13 +5,14 @@ date: 2021-10-28 20:23:36
 tags:
     - Coaching
 excerpt: Learn to let go of being a fixer and shake off that burnout.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/How+to+Let+Go+of+Being+a+%E2%80%9CFixer%E2%80%9D.mp4
 pullquote: Not all problems need an immediate fix.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/burnout-yt.jpg
-youtube_code: xZQN9M8WFr0
+youtube_code: qHHxJEK605Q
 ---
 {% include youtube.html %}
 
