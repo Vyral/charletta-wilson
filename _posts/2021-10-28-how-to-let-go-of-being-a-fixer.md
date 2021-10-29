@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Let Go of Being a “Fixer”
+title: How To Let Go of Being a “Fixer”
 date: 2021-10-28 20:23:36
 tags:
     - Coaching
