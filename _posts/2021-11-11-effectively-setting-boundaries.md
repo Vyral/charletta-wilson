@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Effectively Setting Boundaries
+title: Boundaries Aren't Barricades
 date: 2021-11-11 18:31:26
 tags:
     - Coaching
@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/boundaries-img.jpg
+youtube_alternate_image: /uploads/pexels-photo-1591930.jpg
 youtube_code:
 ---
 Earlier this month, I had the opportunity to work with a group of executive leaders who lead some of the largest organizations in the state of Hawaii. It was like a fireside chat with 12 of my closest friends–except it was the first time I’d met many of them. However, within a few short minutes of our gathering, we dug right into our topic: how to set better boundaries.
