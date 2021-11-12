@@ -13,7 +13,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/pexels-photo-1591930.jpg
 youtube_code:
 ---
-![](/uploads/pexels-photo-1591931.jpg){: width="1260" height="711"}
+![](/uploads/pexels-photo-1591931.jpg){: width="100%" height="100%"}
 
 Earlier this month, I had the opportunity to work with a group of executive leaders who lead some of the largest organizations in the state of Hawaii. It was like a fireside chat with 12 of my closest friends–except it was the first time I’d met many of them. However, within a few short minutes of our gathering, we dug right into our topic: how to set better boundaries.
 
