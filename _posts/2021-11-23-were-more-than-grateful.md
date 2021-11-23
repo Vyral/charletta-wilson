@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/gratitude-yt.jpg
-youtube_code: mqvEituX8BY
+youtube_code: TVgNfErbVvA
 ---
 {% include youtube.html %}
 
