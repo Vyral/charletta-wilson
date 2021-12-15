@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/accountability-yt.jpg
-youtube_code: mNFwntcWZE8
+youtube_code: 1Zpv0HCo7R4
 ---
 {% include youtube.html %}
 
