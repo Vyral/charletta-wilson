@@ -4,7 +4,7 @@ title: What Does Accountability Mean?
 date: 2021-12-17 22:16:00
 tags:
   - Coaching
-excerpt: Shawn and I had a great conversation on the challenges of accountability.
+excerpt: Sean and I had a great conversation on the challenges of accountability.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/What+Does+Accountability+Mean_.mp4
 pullquote:
