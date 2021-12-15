@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does Accountability Mean?
-date: 2021-12-17 22:16:00
+date: 2021-12-15 10:16:00
 tags:
   - Coaching
 excerpt: Sean and I had a great conversation on the challenges of accountability.
