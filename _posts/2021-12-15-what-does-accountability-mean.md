@@ -16,9 +16,9 @@ youtube_code: _zzFKL-HD4M
 ---
 {% include youtube.html %}
 
-Today I am speaking with Sean, my video editor and friend, about an important topic --&nbsp;**ACCOUNTABILITY**. Anyone who wants to have an impact in the world needs this.&nbsp; Sean and I have established a working relationship that helps me stretch my edge in video production.&nbsp; I'm convinced that without accountability, talents are left stifled.
+Today I am speaking with Sean, my video editor and friend, about an important topic --&nbsp;**ACCOUNTABILITY**. Anyone who wants to have an impact in the world needs this. Sean and I have established a working relationship that helps me stretch my edge in video production. I'm convinced that without accountability, talents are left stifled.
 
-The word "accountability" means different things to different people.&nbsp; But, at the heart, it's about building trust and relationships AND is an essential part of growth. Without accountability or with unclear parameters, conflict is likely to ensue.
+The word "accountability" means different things to different people. But, at the heart, it's about building trust and relationships AND is an essential part of growth. Without accountability or with unclear parameters, conflict is likely to ensue.
 
 As a&nbsp;**quick audit to your accountability relationships**, consider if you have:
 
@@ -29,7 +29,7 @@ As a&nbsp;**quick audit to your accountability relationships**, consider if you 
 * Asked for help
 * Expressed gratitude for the mutual support
 
-After working with Sean for nearly two years, I've learned that effective accountability grows trust AND moves me closer to my growth goals.&nbsp; Hopefully, this conversation inspires you to revisit the power of accountability in your work and life.&nbsp; Whether you are trying to get into better health, a better role or to grow your company to another level -- consider how accountability can work to your benefit.&nbsp;&nbsp;
+After working with Sean for nearly two years, I've learned that effective accountability grows trust AND moves me closer to my growth goals. Hopefully, this conversation inspires you to revisit the power of accountability in your work and life. Whether you are trying to get into better health, a better role or to grow your company to another level -- consider how accountability can work to your benefit.&nbsp;&nbsp;
 
 If you have an accountability story to share or want to noodle ways to integrate better accountability in your systems, reach out. I am glad to help.
 
