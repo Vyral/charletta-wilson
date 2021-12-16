@@ -16,7 +16,7 @@ youtube_code: _zzFKL-HD4M
 ---
 {% include youtube.html %}
 
-Today I am speaking with Sean, my video editor and friend, about an important topic --&nbsp;**ACCOUNTABILITY**. Anyone who wants to have an impact in the world needs this. Sean and I have established a working relationship that helps me stretch my edge in video production. I'm convinced that without accountability, talents are left stifled.
+Today I am speaking with Sean, my video editor and friend, about an important topic -&nbsp;**ACCOUNTABILITY**. Anyone who wants to have an impact in the world needs this. Sean and I have established a working relationship that helps me stretch my edge in video production. I'm convinced that without accountability, talents are left stifled.
 
 The word "accountability" means different things to different people. But, at the heart, it's about building trust and relationships AND is an essential part of growth. Without accountability or with unclear parameters, conflict is likely to ensue.
 
