@@ -11,27 +11,26 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/accountability-yt.jpg
-youtube_code: 1Zpv0HCo7R4
+youtube_alternate_image: /uploads/accountability-yt-1.jpg
+youtube_code: _zzFKL-HD4M
 ---
 {% include youtube.html %}
 
-Aloha\! Today I am speaking with Sean about an important topic: accountability. This word means different things to different people, so we’ll talk about what it means to us and how you can be more accountable in your life.&nbsp;
+Today I am speaking with Sean, my video editor and friend, about an important topic --&nbsp;**ACCOUNTABILITY**. Anyone who wants to have an impact in the world needs this.&nbsp; Sean and I have established a working relationship that helps me stretch my edge in video production.&nbsp; I'm convinced that without accountability, talents are left stifled.
 
-**You can watch our full conversation in the video above, or you can use the timestamps to skip to each topic:**
+The word "accountability" means different things to different people.&nbsp; But, at the heart, it's about building trust and relationships AND is an essential part of growth. Without accountability or with unclear parameters, conflict is likely to ensue.
 
-0:00 — Introduction
+As a&nbsp;**quick audit to your accountability relationships**, consider if you have:
 
-1:01 — What does accountability mean to us?&nbsp;
+* Clearly defined what accountability looks like in behavioral context&nbsp;
+* Established a two-way process for checking in and feedback
+* Clear parameters of your options
+* Clear understanding of consequences
+* Asked for help
+* Expressed gratitude for the mutual support
 
-2:04 — How can you hold people accountable?
+After working with Sean for nearly two years, I've learned that effective accountability grows trust AND moves me closer to my growth goals.&nbsp; Hopefully, this conversation inspires you to revisit the power of accountability in your work and life.&nbsp; Whether you are trying to get into better health, a better role or to grow your company to another level -- consider how accountability can work to your benefit.&nbsp;&nbsp;
 
-3:41 — Accountability means helping people understand their options
+If you have an accountability story to share or want to noodle ways to integrate better accountability in your systems, reach out. I am glad to help.
 
-4:33 — How do you build accountability and trust?&nbsp;
-
-5:43 — Accountability is about relationships
-
-6:11 — Wrapping up
-
-Hopefully, this conversation helped put accountability into perspective for you. If you have any questions about today’s topic or anything else, please call or email me. I am always willing to help\!
+Salamat po and happy holidays\!
