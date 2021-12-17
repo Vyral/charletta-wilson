@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/accountability-yt2.jpg
+youtube_alternate_image: /uploads/accountability-yt-2.jpg
 youtube_code: _zzFKL-HD4M
 ---
 {% include youtube.html %}
@@ -29,7 +29,7 @@ As a&nbsp;**quick audit to your accountability relationships**, consider if you 
 * Asked for help
 * Expressed gratitude for the mutual support
 
-After working with Sean for nearly two years, I've learned that effective accountability grows trust AND moves me closer to my growth goals. Hopefully, this conversation inspires you to revisit the power of accountability in your work and life. Whether you are trying to get into better health, a better role or to grow your company to another level -- consider how accountability can work to your benefit.&nbsp;&nbsp;
+After working with Sean for nearly two years, I've learned that effective accountability grows trust AND moves me closer to my growth goals. Hopefully, this conversation inspires you to revisit the power of accountability in your work and life. Whether you are trying to get into better health, a better role or to grow your company to another level – consider how accountability can work to your benefit.&nbsp;&nbsp;
 
 If you have an accountability story to share or want to noodle ways to integrate better accountability in your systems, reach out. I am glad to help.
 
