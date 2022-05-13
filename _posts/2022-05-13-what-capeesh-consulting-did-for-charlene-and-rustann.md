@@ -16,7 +16,7 @@ youtube_code: ug8h3F6fIB0
 
 {% include pullquote.html %}
 
-Happy May\! It has been a while since I’ve made a blog post, and the truth is that life has been happening. I’ve given myself permission to take a break, and I hope you do the same for yourself. Today I want to highlight some of my all-time favorite clients and friends, Charlene and Rustann Tongg of Keller Williams. They’ve been working with me since February of 2020, so I figured they would be the perfect people to ask about their experience so far.&nbsp;
+Happy May\! It has been a while since I’ve made a blog post, and the truth is that life has been happening. I’ve given myself permission to take a break, and I hope you do the same for yourself. Today I want to highlight some of my all-time favorite clients and friends, Charlene and Rustann Tongg of Keller Williams. They’ve been working with me since February of 2020, so I figured they would be the perfect people to ask about their experience so far.
 
 **What has been the greatest evidence of growth within your team?&nbsp;**
 
