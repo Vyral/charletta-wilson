@@ -17,8 +17,6 @@ youtube_code: wIGNDligw9w
 ---
 {% include youtube.html %}
 
-**&nbsp;**{% include excerpt.html %}
-
 Happy May\! It has been a while since I’ve made a blog post, and the truth is that life has been happening. I’ve given myself permission to take a break, and I hope you do the same for yourself. Today I want to highlight two of my all-time favorite clients and friends, Charlene and Rustan Tongg of Keller Williams. They’ve been working with me since February of 2020, so I figured they would be the perfect people to ask about their experience so far.
 
 **What has been the greatest evidence of growth within your team?&nbsp;**
