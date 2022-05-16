@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/deep-work-with-teams-yt.jpg
-youtube_code: wIGNDligw9w
+youtube_code: C2bpLafVKFM
 ---
 {% include youtube.html %}
 
