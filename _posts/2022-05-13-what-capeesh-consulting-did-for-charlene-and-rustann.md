@@ -7,8 +7,8 @@ tags:
 excerpt: 'Here’s what Charlene and Rustan’s experience has been like so far. '
 enclosure:
 pullquote: >-
-  They don’t have to create solutions because their team members do it
-  themselves. 
+  We don’t have to create solutions for everyone, they make solutions for
+  themselves.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
