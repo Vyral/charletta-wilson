@@ -3,7 +3,7 @@ layout: post
 title: Boosting Your Resilience
 date: 2020-05-19 18:41:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: Here’s a step-by-step guide to boosting resilience within your work team.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Boosting+Your+Resilience.mp4
