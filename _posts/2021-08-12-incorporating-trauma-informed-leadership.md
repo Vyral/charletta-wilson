@@ -3,8 +3,8 @@ layout: post
 title: Incorporating Trauma-Informed Leadership
 date: 2021-08-12 20:15:45
 tags:
-  - Coaching
-  - Leader/Team Development
+  - Coaching/Team Coaching
+  - Leadership
 excerpt: Learn about and become a trauma-informed leader through Dare to Lead.
 enclosure:
 pullquote: Trauma-informed leadership is not a luxury, but a necessity.
