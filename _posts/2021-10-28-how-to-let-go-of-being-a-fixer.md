@@ -3,7 +3,7 @@ layout: post
 title: How To Let Go of Being a “Fixer”
 date: 2021-10-28 20:23:36
 tags:
-    - Coaching
+    - Coaching/Team Coaching
 excerpt: Learn to let go of being a fixer and shake off that burnout.
 enclosure: >-
     https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/How+to+Let+Go+of+Being+a+%E2%80%9CFixer%E2%80%9D.mp4
