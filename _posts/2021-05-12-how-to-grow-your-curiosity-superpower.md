@@ -3,7 +3,7 @@ layout: post
 title: How to Grow Your Curiosity Superpower
 date: 2021-05-12 23:00:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: 'In business and in life, having a curious mind is key. Here’s why.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Curiosity+Is+Key+in+Life+%26+Business.mp4
