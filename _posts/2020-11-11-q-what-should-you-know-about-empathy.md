@@ -3,7 +3,7 @@ layout: post
 title: 'Q: What Should You Know About Empathy?'
 date: 2020-11-11 19:17:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: 'It’s essential to have empathy, especially in today’s world. Here’s why.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Q%3A+What+Do+You+Know+About+Empathy%3F.mp4
