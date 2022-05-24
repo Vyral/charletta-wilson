@@ -3,8 +3,8 @@ layout: post
 title: Aligning What's True for You
 date: 2021-09-09 21:10:22
 tags:
-  - Coaching
-  - Leader/Team Development
+  - Coaching/Team Coaching
+  - Leadership
 excerpt: Let me tell you about alignment week and how it can help you.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Aligning+What's+True+for+You.mp4
