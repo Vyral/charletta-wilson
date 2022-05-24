@@ -3,7 +3,7 @@ layout: post
 title: Why Am I Chronically Busy?
 date: 2021-02-09 21:54:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: Here’s why an apparent need to always be busy can be indicative of scarcity.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Why+Am+I+Chronically+Busy_.mp4
