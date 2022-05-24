@@ -3,7 +3,7 @@ layout: post
 title: 'Q: How Do You Shift Your Perspective on Perfectionism?'
 date: 2020-10-28 20:04:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: 'Perfectionism can be exhausting, but it’s not all doom and gloom.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Q-+How+Do+You+Change+Your+Perspective+on+Perfectionism_.mp4
