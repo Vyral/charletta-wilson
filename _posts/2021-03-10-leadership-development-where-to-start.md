@@ -3,7 +3,7 @@ layout: post
 title: 'Leadership Development: Where to Start?'
 date: 2021-03-10 18:16:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: >-
   When it comes to business, people and disruption, there is never a shortage of
   needs for leadership development.
