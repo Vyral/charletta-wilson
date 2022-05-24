@@ -3,7 +3,7 @@ layout: post
 title: The Importance of Boosting Psychological Safety
 date: 2020-05-04 20:12:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: >-
   What can you do to focus on your psychological safety during these troubling
   times?
