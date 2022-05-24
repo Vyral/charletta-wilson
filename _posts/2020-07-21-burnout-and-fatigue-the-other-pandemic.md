@@ -3,7 +3,7 @@ layout: post
 title: 'Burnout and Fatigue: The Other Pandemic'
 date: 2020-07-21 20:12:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: Leaders can’t care for their circle unless they care for themselves first.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Burnout+and+Fatigue-+The+Other+Pandemic.mp4
