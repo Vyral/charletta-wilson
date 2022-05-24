@@ -3,7 +3,7 @@ layout: post
 title: Boundaries Aren't Barricades
 date: 2021-11-11 18:31:26
 tags:
-    - Coaching
+    - Coaching/Team Coaching
 excerpt: Learn to have better boundary skills.
 enclosure:
 pullquote:
