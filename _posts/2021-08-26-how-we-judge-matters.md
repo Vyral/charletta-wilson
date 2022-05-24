@@ -3,8 +3,8 @@ layout: post
 title: How We Judge Matters
 date: 2021-08-26 21:46:58
 tags:
-  - Coaching
-  - Leader/Team Development
+  - Coaching/Team Coaching
+  - Leadership
 excerpt: I talk about how you can start making better judgments today.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/How+We+Judge+Matters.mp4
