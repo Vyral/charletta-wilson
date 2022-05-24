@@ -3,7 +3,7 @@ layout: post
 title: What Do You Need to Feel Whole?
 date: 2021-02-24 15:32:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: This self-care practice will help you feel renewed and whole again.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/What+Do+You+Need+to+Feel+Whole_.mp4
