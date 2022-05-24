@@ -3,7 +3,7 @@ layout: post
 title: Charlene and Rustan's Team Transformation
 date: 2022-05-13 00:00:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: 'Here’s what Charlene and Rustan’s experience has been like so far. '
 enclosure:
 pullquote: >-
