@@ -3,8 +3,8 @@ layout: post
 title: The Importance of Team Coaching
 date: 2021-09-22 16:09:53
 tags:
-  - Coaching
-  - Leader/Team Development
+  - Coaching/Team Coaching
+  - Leadership
 excerpt: Here are some of the lessons that my team leaders have been learning.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/The+Importance+of+Team+Coaching.mp4
