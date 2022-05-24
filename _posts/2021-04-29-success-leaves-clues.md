@@ -3,7 +3,7 @@ layout: post
 title: Success Leaves Clues
 date: 2021-04-29 19:47:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: From army boots to business success.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/How+My+Partner+Tim+Conquered+His+Fears+and+Found+Success.mp4
