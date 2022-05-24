@@ -3,7 +3,7 @@ layout: post
 title: 6 Steps To Find an Ideal Coach
 date: 2021-10-14 20:11:51
 tags:
-    - Coaching
+    - Coaching/Team Coaching
 excerpt: Here are steps you should take when looking for a personal or team coach.
 enclosure: >-
     https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/6+Steps+To+Find+an+Ideal+Coach.mp4
