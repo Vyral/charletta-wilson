@@ -3,7 +3,7 @@ layout: post
 title: How to Spot Defensiveness
 date: 2020-07-09 18:57:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: Here’s how defensiveness can block the road to a healthy relationship.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/How+to+Spot+Defensiveness.mp4
