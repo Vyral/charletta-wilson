@@ -3,7 +3,7 @@ layout: post
 title: What Does Accountability Really Mean?
 date: 2021-12-15 10:16:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: Sean and I had a great conversation on the challenges of accountability.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/What+Does+Accountability+Mean_.mp4
