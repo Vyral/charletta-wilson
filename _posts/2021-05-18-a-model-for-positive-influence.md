@@ -3,7 +3,7 @@ layout: post
 title: A Model for Positive Influence
 date: 2021-05-18 17:46:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: The SCARF model can help you navigate the winds of change.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/A+Model+for+Positive+Influence.mp4
