@@ -3,7 +3,7 @@ layout: post
 title: 'Q: What 3 Meta-Skills Are Needed in VUCA Times?'
 date: 2020-10-12 20:44:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: 'To become a successful leader, you need the three meta-skills.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Q-+What+Are+the+3+Meta-Skills_.mp4
