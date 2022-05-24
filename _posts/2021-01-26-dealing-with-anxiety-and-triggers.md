@@ -3,7 +3,7 @@ layout: post
 title: Dealing With Anxiety and Triggers
 date: 2021-01-26 16:56:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: Here’s my advice for dealing with increased anxiety in our world.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Dealing+With+Anxiety+and+Triggers.mp4
