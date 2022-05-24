@@ -3,7 +3,7 @@ layout: post
 title: Why Leaders Need a Coach
 date: 2020-06-03 19:10:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: All leaders need a coach and coaching skills. Find out why here.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Why+Leaders+Need+a+Coach.mp4
