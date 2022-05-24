@@ -3,7 +3,7 @@ layout: post
 title: 'Q: Are You Living “La Vida Loca”?'
 date: 2020-12-02 22:44:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: Here are eight steps my son Noah and I use to bring balance to each day.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Q_+Are+You+Living+%E2%80%9CLa+Vida+Loca%E2%80%9D_.mp4
