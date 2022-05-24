@@ -3,9 +3,8 @@ layout: post
 title: Welcome To My Blog
 date: 2020-04-10 19:57:00
 tags:
-  - Coaching
-  - Events
-  - Consulting
+  - Coaching/Team Coaching
+  - Leadership
 excerpt: I'm here to help you become a better leader.
 enclosure:
 pullquote:
