@@ -3,7 +3,7 @@ layout: post
 title: Replace Your Assumptions With Curiosity
 date: 2021-04-09 21:10:00
 tags:
-  - Coaching
+  - Coaching/Team Coaching
 excerpt: Don’t let your assumptions hinder your evolution as a person.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/Replace+Your+Assumptions+With+Curiosity.mp4
