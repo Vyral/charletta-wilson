@@ -3,7 +3,8 @@ layout: post
 title: We’re More Than Grateful!
 date: 2021-11-23 16:38:08
 tags:
-  - Blog
+  - Communication
+  - Change
 excerpt: The 2021 holiday season has officially begun!
 enclosure:
 pullquote:
