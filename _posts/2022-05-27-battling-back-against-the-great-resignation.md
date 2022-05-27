@@ -3,9 +3,11 @@ layout: post
 title: Battling Back Against the Great Resignation
 date: 2022-05-27 00:00:00
 tags:
-excerpt:
+excerpt: ' Here are four ways to counteract the Great Resignation'
 enclosure:
-pullquote:
+pullquote: >-
+  There’s a burning desire for people to do life and work differently and on
+  purpose.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
