@@ -14,11 +14,13 @@ youtube_code: QjXoE3J3NYg
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
+{% include excerpt.html %}
 
 I’ve received a ton of responses to my [recent blog post on “The Great Resignation.”](https://blog.capeeshconsulting.com/battling-back-against-the-great-resignation.html) I loved chatting with my clients, but I realized many of our conversations were heading in the same direction. That’s why today I want to discuss how you can tell your context is changing.&nbsp;
 
 **If you feel stuck or trapped in your circumstances, your context is probably about to change.** Most of my clients are senior or middle leaders who have worked in their field for a long time. They know what they’re doing, but the nature of business changes. On top of that, external circumstances have recently caused many to feel like they don’t have control over their situations.&nbsp;
+
+{% include pullquote.html %}
 
 Getting unstuck isn’t as easy as one two three, but I can help you get started with a few simple steps:
 
