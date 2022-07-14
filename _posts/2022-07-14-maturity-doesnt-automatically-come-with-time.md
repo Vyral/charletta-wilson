@@ -16,8 +16,6 @@ youtube_code: ZOFIQETtm5s
 
 {% include excerpt.html %}<br>&nbsp;
 
-&nbsp;
-
 You might not believe it, but we’re more than halfway done with 2022. Time has flown by this year, and you may have reached some important milestones or anniversaries. However, maturity can’t really be measured by a number. Then the question becomes: how mature are you?&nbsp;
 
 According to former Havard psychologist Robert Kagan, “Becoming an adult isn’t just about learning new things.” In reality, maturing happens in five basic steps:
