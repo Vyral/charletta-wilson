@@ -16,6 +16,8 @@ youtube_code: ZOFIQETtm5s
 
 {% include excerpt.html %}<br>&nbsp;
 
+&nbsp;
+
 You might not believe it, but we’re more than halfway done with 2022. Time has flown by this year, and you may have reached some important milestones or anniversaries. However, maturity can’t really be measured by a number. Then the question becomes: how mature are you?&nbsp;
 
 According to former Havard psychologist Robert Kagan, “Becoming an adult isn’t just about learning new things.” In reality, maturing happens in five basic steps:
@@ -23,6 +25,8 @@ According to former Havard psychologist Robert Kagan, “Becoming an adult isn�
 **1\. The impulsive mind.** This describes a stage like early childhood. We do what we want when we want, with no regard for other people.&nbsp;
 
 **2\. The imperial mind.** We’re more transactional in our relationships. We can cooperate with others, but we leave as soon as we don’t get what we want.<br>&nbsp;
+
+&nbsp;
 
 {% include pullquote.html %}<br><br>**3\. The socialized mind.** We are no longer purely transactional; instead, we grab onto norms, beliefs, and culture. About 58% of the adult population remains in this place.&nbsp;
 
