@@ -3,6 +3,7 @@ layout: post
 title: Maturity Doesn’t Automatically Come With Time
 date: 2022-07-14 05:00:00
 tags:
+  - Coaching/Team Coaching
 excerpt: 'The five steps of maturity you must know to grow your relationships. '
 enclosure:
 pullquote: 'Maturity can’t be measured by a number. '
@@ -10,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mature-yt.jpeg
-youtube_code: ZOFIQETtm5s
+youtube_code: IpiF4JxuhIg
 ---
 {% include youtube.html %}
 
