@@ -14,7 +14,7 @@ youtube_code: ZOFIQETtm5s
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
+{% include excerpt.html %}<br>&nbsp;
 
 You might not believe it, but we’re more than halfway done with 2022. Time has flown by this year, and you may have reached some important milestones or anniversaries. However, maturity can’t really be measured by a number. Then the question becomes: how mature are you?&nbsp;
 
