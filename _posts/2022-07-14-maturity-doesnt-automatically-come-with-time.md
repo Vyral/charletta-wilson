@@ -11,7 +11,7 @@ pullquote: 'Maturity can’t be measured by a number. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/mature-yt.jpeg
+youtube_alternate_image: /uploads/mature-yt-2.jpeg
 youtube_code: wbTJYjSP4e8
 ---
 {% include youtube.html %}
