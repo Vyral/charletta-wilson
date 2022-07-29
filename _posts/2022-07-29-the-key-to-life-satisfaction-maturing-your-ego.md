@@ -12,7 +12,11 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/ego-yt.jpeg
 youtube_code: 2QM_6nVXbBs
 ---
-{% include youtube.html %}<br><br>{% include excerpt.html %}<br><br>The concept of ego is an often underappreciated topic when it comes to developing leadership skills. Your ego is the part of your psyche that aims to protect you from harm. Its sole focus is self-preservation and proving your worthiness in the eyes of others. Many people refer to egos as big or inflated in a negative way, but I prefer to think of them as either developed or underdeveloped. So what’s the difference between a mature and immature ego?
+{% include youtube.html %}
+
+{% include excerpt.html %}
+
+The concept of ego is an often underappreciated topic when it comes to developing leadership skills. Your ego is the part of your psyche that aims to protect you from harm. Its sole focus is self-preservation and proving your worthiness in the eyes of others. Many people refer to egos as big or inflated in a negative way, but I prefer to think of them as either developed or underdeveloped. So what’s the difference between a mature and immature ego?
 
 **People with underdeveloped egos tend to lack emotional intelligence** and are less likely to be successful in a changing world.They often:
 
