@@ -31,11 +31,7 @@ The concept of ego is an often underappreciated topic when it comes to developin
 * Don’t trust others and won’t ask for help
 * Won’t speak up or set boundaries for fear of consequences
 
-&nbsp;
-
 {% include pullquote.html %}
-
-&nbsp;
 
 On the other hand,&nbsp;**people with developed egos have higher emotional intelligence and are better equipped to thrive in uncertainty.**&nbsp;These people:
 
