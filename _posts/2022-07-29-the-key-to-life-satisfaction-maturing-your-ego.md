@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Key to Life Satisfaction: Maturing Your Ego'
+title: 'Life Satisfaction and Ego: What''s the Connection?'
 date: 2022-07-29 05:00:00
 tags:
 excerpt: Maturing your ego is key to improving your life, business, and relationships.
