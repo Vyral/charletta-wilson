@@ -15,7 +15,7 @@ youtube_code: lHTe0nM8zqA
 ---
 {% include youtube.html %}
 
-When I was younger, I loved to write love letters to friends and family. It was my way of reaching through time and distance to put a heart stamp on their day. I'm back from my two-week reset, and a lot of **inspiration came to me after being taken out of my Hawaii bubble** and going to a place that I hadn't been to in a long time. Today I want to share a love letter with you.
+When I was younger, I loved towrite love letters to friends and family. It was my way of reaching through time and distance to put a heart stamp on their day. I'm back from my two-week reset, and a lot of **inspiration came to me after being taken out of my Hawaii bubble** and going to a place that I hadn't been to in a long time. Today I want to share a love letter with you.
 
 “Life is short, and you were created for a purpose. If you could do anything, barring all fear, I dare you to take that leap of faith. Do it afraid and stop comparing yourself to everyone else because it doesn't matter. What is for you, is for you—go for it. You've got what it takes.”
 
