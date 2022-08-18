@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Love Letter for You
-date:
+date: 2022-08-18 00:00:00
 tags:
   - Emotions
 excerpt: After coming back from my trip, I was inspired to write a love letter.
