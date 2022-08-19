@@ -5,7 +5,8 @@ date: 2022-08-18 00:00:00
 tags:
   - Emotions
 excerpt: After coming back from my trip, I was inspired to write a love letter.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/2022/A+Love+Letter+for+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
