@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/love-what-i-do-yt-2.jpeg
+youtube_alternate_image: /uploads/love-what-i-do-yt-2-1.jpeg
 youtube_code: GGH73wbbnlI
 ---
 {% include youtube.html %}
