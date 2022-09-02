@@ -5,7 +5,8 @@ date: 2022-09-01 00:00:00
 tags:
   - Coaching/Team Coaching
 excerpt: Why I love being a coach, consultant, and facilitator so much.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/2022/Why+I+love+What+I+Do.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
