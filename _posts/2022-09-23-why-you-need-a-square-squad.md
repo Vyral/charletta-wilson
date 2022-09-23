@@ -16,6 +16,8 @@ youtube_code: K-0Mas9XCfk
 
 {% include excerpt.html %}
 
+&nbsp;
+
 I'm talking to all of my brave folks out there. This one thing is something so important that you cannot do without: your square squad, or as I call it, my circle of trust. These are a core group of folks who have your back. These are not your “yes” people. **These are the individuals in your life who love you, care about you, and want to see you succeed.**
 
 These are the people who celebrate with you, and they also sit next to you when you've fallen flat. These are the people who will pick you up, who will dust you off, and who'll send you back out there. They'll be on the sidelines of that arena, and they'll be wishing you well.
