@@ -4,7 +4,8 @@ title: 'Value Identification '
 date: 2022-09-29 05:00:00
 tags:
 excerpt: 'Why identifying your values is so important and how you can do it today. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Charletta+Wilson/2022/Value+Identification.mp4
 pullquote: Values are who you are and how you express yourself.
 enclosure_type: video/mp4
 enclosure_time:
