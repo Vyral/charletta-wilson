@@ -9,8 +9,8 @@ pullquote: Values are who you are and how you express yourself.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/values-yt.jpeg
-youtube_code: W-dfP2rQnqw
+youtube_alternate_image: /uploads/values-yt-1.jpeg
+youtube_code: dEfqAdbRGSU
 ---
 {% include youtube.html %}
 
