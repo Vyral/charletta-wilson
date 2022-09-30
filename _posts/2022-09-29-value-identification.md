@@ -16,7 +16,7 @@ youtube_code: dEfqAdbRGSU
 
 {% include excerpt.html %}
 
-Have you ever taken the time to identify your values? I’m here to share a tool which I believe is the foundation for effective leadership and wholehearted living. It's called Value Identification, and you can access the guide by clicking here.&nbsp;
+Have you ever taken the time to identify your values? I’m here to share a tool which I believe is the foundation for effective leadership and wholehearted living. It's called Value Identification, and you can access the guide by clicking **[here](/uploads/CaPeesh_Identifying-Your-Values.pdf)**.&nbsp;
 
 Value Identification is a process where you look at a list of values, identify your top 10, distill it down to your top five, and then eventually your top two. **The key is to not spend too much time obsessing over whether you're going to get it right or wrong.** I suggest that you follow your intuition, and circle the ones that you feel show up most frequently in your life.
 
