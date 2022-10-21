@@ -14,9 +14,7 @@ youtube_code: a1ZRmi5mGKE
 ---
 {% include youtube.html %}
 
-In my coaching and personal life, one thing kept popping up: our tendency to compare. Today I’ll talk about this topic and discuss the issues that come with it.
-
-**Comparison is a natural mental function and a part of our survival.** We're able to look at something and then compare and contrast to see differences or similarities. The problem is that when we get hooked by unhealthy comparisons in a social context, we start to tie it or link it with our identity and self-worth.
+In my coaching practice and personal life, I see a really bad trap that derails success -- unhealthy comparison.&nbsp;**Comparison is a natural mental function and a part of our survival.** We're able to look at something and then compare and contrast to see differences or similarities. The problem is that when we get hooked by unhealthy comparisons in a social context, we start to tie it or link it with our identity and self-worth.
 
 {% include pullquote.html %}
 
